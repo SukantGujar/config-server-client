@@ -1,0 +1,15 @@
+{
+  "name": "config-server-client",
+  "version": "0.1.0",
+  "description": "Client API for config-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": "https://github.com/SukantGujar/config-server-client",
+  "author": "Sukant Gujar <sukantgujar@yahoo.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^0.16.2"
+  }
+}
