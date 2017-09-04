@@ -1,5 +1,5 @@
 {
-  "name": "config-server-client",
+  "name": "config-server-lite-client",
   "version": "0.1.0",
   "description": "Client API for config-server",
   "main": "index.js",
