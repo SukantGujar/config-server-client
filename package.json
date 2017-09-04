@@ -1,6 +1,6 @@
 {
   "name": "config-server-lite-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Client API for config-server",
   "main": "index.js",
   "repository": "https://github.com/SukantGujar/config-server-client",
