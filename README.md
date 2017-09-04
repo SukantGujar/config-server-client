@@ -1,5 +1,5 @@
 # config-server-client
-This is a client library for (config-server)[https://github.com/SukantGujar/config-server] application for nodejs and browser environments.
+This is a client library for [config-server-lite](https://github.com/SukantGujar/config-server) application for nodejs and browser environments.
 
 # Installation
 ## With yarn
